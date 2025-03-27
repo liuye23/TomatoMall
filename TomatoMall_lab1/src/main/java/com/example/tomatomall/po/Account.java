@@ -1,18 +1,3 @@
-<<<<<<< HEAD
-package com.example.tomatomall.po;
-
-import lombok.Getter;
-import lombok.NoArgsConstructor;
-import lombok.Setter;
-
-@Getter
-@Setter
-@NoArgsConstructor
-public class Account {
-    private String username;
-    private String password;
-}
-=======
 package com.example.tomatomall.po;
 
 import lombok.Getter;
@@ -32,4 +17,3 @@ public class Account {
     private String realName;
     private String idCard;
 }
->>>>>>> b24d286 (create gitignore)
