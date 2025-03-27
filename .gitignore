@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# VS Code
+.vscode/
+
+# Maven
+target/
+**/target/
+
+# IDE
+.idea/
+*.iml 
